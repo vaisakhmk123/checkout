@@ -1,0 +1,14 @@
+C:\Users\intel9\source\repos\Checkout-Item\Checkout-Item\obj\Debug\netcoreapp3.1\Checkout-Item.csproj.AssemblyReference.cache
+C:\Users\intel9\source\repos\Checkout-Item\Checkout-Item\obj\Debug\netcoreapp3.1\Checkout-Item.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\intel9\source\repos\Checkout-Item\Checkout-Item\obj\Debug\netcoreapp3.1\Checkout-Item.AssemblyInfoInputs.cache
+C:\Users\intel9\source\repos\Checkout-Item\Checkout-Item\obj\Debug\netcoreapp3.1\Checkout-Item.AssemblyInfo.cs
+C:\Users\intel9\source\repos\Checkout-Item\Checkout-Item\obj\Debug\netcoreapp3.1\Checkout-Item.csproj.CoreCompileInputs.cache
+C:\Users\intel9\source\repos\Checkout-Item\Checkout-Item\bin\Debug\netcoreapp3.1\Checkout-Item.exe
+C:\Users\intel9\source\repos\Checkout-Item\Checkout-Item\bin\Debug\netcoreapp3.1\Checkout-Item.deps.json
+C:\Users\intel9\source\repos\Checkout-Item\Checkout-Item\bin\Debug\netcoreapp3.1\Checkout-Item.runtimeconfig.json
+C:\Users\intel9\source\repos\Checkout-Item\Checkout-Item\bin\Debug\netcoreapp3.1\Checkout-Item.runtimeconfig.dev.json
+C:\Users\intel9\source\repos\Checkout-Item\Checkout-Item\bin\Debug\netcoreapp3.1\Checkout-Item.dll
+C:\Users\intel9\source\repos\Checkout-Item\Checkout-Item\bin\Debug\netcoreapp3.1\Checkout-Item.pdb
+C:\Users\intel9\source\repos\Checkout-Item\Checkout-Item\obj\Debug\netcoreapp3.1\Checkout-Item.dll
+C:\Users\intel9\source\repos\Checkout-Item\Checkout-Item\obj\Debug\netcoreapp3.1\Checkout-Item.pdb
+C:\Users\intel9\source\repos\Checkout-Item\Checkout-Item\obj\Debug\netcoreapp3.1\Checkout-Item.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6JyV4rBdVDUXY2xWCpETpnGuFuT8XblDZuK9twqmclBkCazMa9LuyHG4LEVUsqXcaU4/KAoVr+lmzc+Z6yczFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\intel9\\source\\repos\\Checkout-Item\\Checkout-Item\\Checkout-Item.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\intel9\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

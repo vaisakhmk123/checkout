@@ -1,0 +1,16 @@
+C:\Users\intel9\source\repos\Checkout-Item\Checkout-Item\bin\Debug\net5.0\Checkout-Item.exe
+C:\Users\intel9\source\repos\Checkout-Item\Checkout-Item\bin\Debug\net5.0\Checkout-Item.deps.json
+C:\Users\intel9\source\repos\Checkout-Item\Checkout-Item\bin\Debug\net5.0\Checkout-Item.runtimeconfig.json
+C:\Users\intel9\source\repos\Checkout-Item\Checkout-Item\bin\Debug\net5.0\Checkout-Item.runtimeconfig.dev.json
+C:\Users\intel9\source\repos\Checkout-Item\Checkout-Item\bin\Debug\net5.0\Checkout-Item.dll
+C:\Users\intel9\source\repos\Checkout-Item\Checkout-Item\bin\Debug\net5.0\Checkout-Item.pdb
+C:\Users\intel9\source\repos\Checkout-Item\Checkout-Item\obj\Debug\net5.0\Checkout-Item.csproj.AssemblyReference.cache
+C:\Users\intel9\source\repos\Checkout-Item\Checkout-Item\obj\Debug\net5.0\Checkout-Item.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\intel9\source\repos\Checkout-Item\Checkout-Item\obj\Debug\net5.0\Checkout-Item.AssemblyInfoInputs.cache
+C:\Users\intel9\source\repos\Checkout-Item\Checkout-Item\obj\Debug\net5.0\Checkout-Item.AssemblyInfo.cs
+C:\Users\intel9\source\repos\Checkout-Item\Checkout-Item\obj\Debug\net5.0\Checkout-Item.csproj.CoreCompileInputs.cache
+C:\Users\intel9\source\repos\Checkout-Item\Checkout-Item\obj\Debug\net5.0\Checkout-Item.dll
+C:\Users\intel9\source\repos\Checkout-Item\Checkout-Item\obj\Debug\net5.0\refint\Checkout-Item.dll
+C:\Users\intel9\source\repos\Checkout-Item\Checkout-Item\obj\Debug\net5.0\Checkout-Item.pdb
+C:\Users\intel9\source\repos\Checkout-Item\Checkout-Item\obj\Debug\net5.0\Checkout-Item.genruntimeconfig.cache
+C:\Users\intel9\source\repos\Checkout-Item\Checkout-Item\obj\Debug\net5.0\ref\Checkout-Item.dll
